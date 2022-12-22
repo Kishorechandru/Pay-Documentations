@@ -1,0 +1,17 @@
+Mode of Connection - TCPIP 
+
+Hardware needed to connect - An adapter{name Unknown} that connects ETH, Terminal, DC-In, RS-232, USB.
+
+Hardware Connectivity:
+-	Terminal - Lane 7000 with Terminal end will be connected here
+-	ETH -	Internet Lan wire should be connected here.
+-	DC-In - PowerAdapter has to be connected here (Not necessary).
+
+Software Connectivity:
+
+Buttons = 0 and Green
+Password - 352866 (elavon)
+
+Details needs to fetched
+Ip Address from IP Addr
+Port from Client field end number.(6000)
